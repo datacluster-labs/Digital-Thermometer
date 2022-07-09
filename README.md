@@ -22,3 +22,6 @@ COCO, YOLO, PASCAL-VOC, Tf-Record
 
 **Note**:  
 All the images are manually captured and verified by a large contributor base on DataCluster platform.  
+
+### Downloand Dataset
+[Kaggle Link](https://www.kaggle.com/datasets/dataclusterlabs/digital-thermometer-reading-medical-devices)
